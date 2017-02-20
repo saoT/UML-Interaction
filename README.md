@@ -6,12 +6,15 @@ Une fois qu'on a fait le diagramme [use case](https://github.com/simplonco/UML-U
 Il contient tout les points d'entrée et sortie de notre service, et les différentes possibilités ( imposées ou non ) de **navigation**.
 
 Les points d'entrées sont schématisés par un simple cercle noir :
+
 <img src="entree.png" width="120">
 
 Les possibilités par un losange :
+
 <img src="choix.png" width="120">
 
 Les points de sorties par cercle noir avec un anneau :
+
 <img src="sortie.png" width="120">
 
 Essayons de mettre en place le schéma de notre site. Le diagramme d'interaction nous permet de mettre en exergue des **situations particulières** comme l'accès **conditionnel** à une page de login.
