@@ -7,15 +7,15 @@ Il contient tout les points d'entrée et sortie de notre service, et les différ
 
 Les points d'entrées sont schématisés par un simple cercle noir :
 
-<img src="entree.png" width="120">
+<img src="entree.png" width="150">
 
 Les possibilités par un losange :
 
-<img src="choix.png" width="120">
+<img src="choix.png" width="150">
 
 Les points de sorties par cercle noir avec un anneau :
 
-<img src="sortie.png" width="120">
+<img src="sortie.png" width="150">
 
 Essayons de mettre en place le schéma de notre site. Le diagramme d'interaction nous permet de mettre en exergue des **situations particulières** comme l'accès **conditionnel** à une page de login.
 
