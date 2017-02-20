@@ -6,7 +6,8 @@ Une fois qu'on a fait le diagramme [use case](https://github.com/simplonco/UML-U
 Il contient tout les points d'entrée et sortie de notre service, et les différentes possibilités ( imposées ou non ) de **navigation**.
 
 Les points d'entrées sont schématisés par un simple cercle noir :
-![entrées](entree.png =150x)
+
+<img src="entree.png" width="150">
 
 Les possibilités par un losange :
 ![entrées](choix.png =150x)
