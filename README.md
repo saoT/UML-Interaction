@@ -1,4 +1,6 @@
-<img src="readme/img/simplon.jpg" width="300">
+<img src="readme/img/simplon.jpg" width="500">
+
+----------------------
 
 #Diagramme d'Intéraction
 
