@@ -8,11 +8,11 @@ Ce chapitre s'inscrit dans le module [Diagramme UML](https://github.com/simplonc
 
 1. [ ] [Diagramme Use-Case](https://github.com/simplonco/UML-Use-Case)
 	
-2. [ ] [Diagramme de séquence](https://github.com/simplonco/UML-Sequence)
+2. [ ] [Diagramme de Séquence](https://github.com/simplonco/UML-Sequence)
 	
-3. [x] [Diagramme d'intéraction](https://github.com/simplonco/UML-Interaction)
+3. [x] [Diagramme d'Intéraction](https://github.com/simplonco/UML-Interaction)
 	
-4. [ ] [Diagramme de classe](https://github.com/simplonco/UML-Class)
+4. [ ] [Diagramme de Classe](https://github.com/simplonco/UML-Class)
 
 Vous pouvez trouver ce module dans les parcours suivants :
 
