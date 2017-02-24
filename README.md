@@ -1,4 +1,4 @@
-<img src="readme/img/simplon.jpg" width="500">
+<img src="readme/img/simplon.jpg" width="400">
 
 ----------------------
 
